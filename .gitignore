@@ -1,0 +1,10 @@
+.venv/
+.env
+data/chroma_db/
+data/*.csv
+
+__pycache__/
+*.pyc
+.streamlit/
+*.html
+.vscode/
